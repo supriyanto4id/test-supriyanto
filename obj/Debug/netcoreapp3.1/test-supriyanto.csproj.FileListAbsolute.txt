@@ -1,0 +1,11 @@
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/bin/Debug/netcoreapp3.1/test-supriyanto
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/bin/Debug/netcoreapp3.1/test-supriyanto.deps.json
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/bin/Debug/netcoreapp3.1/test-supriyanto.runtimeconfig.json
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/bin/Debug/netcoreapp3.1/test-supriyanto.runtimeconfig.dev.json
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/bin/Debug/netcoreapp3.1/test-supriyanto.dll
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/bin/Debug/netcoreapp3.1/test-supriyanto.pdb
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/obj/Debug/netcoreapp3.1/test-supriyanto.csprojAssemblyReference.cache
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/obj/Debug/netcoreapp3.1/test-supriyanto.AssemblyInfoInputs.cache
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/obj/Debug/netcoreapp3.1/test-supriyanto.AssemblyInfo.cs
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/obj/Debug/netcoreapp3.1/test-supriyanto.dll
+/home/mypc/test-kerja/test-gigaming/test-supriyanto/obj/Debug/netcoreapp3.1/test-supriyanto.pdb
